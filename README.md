@@ -19,4 +19,4 @@
   - Plot interpolated bleaching probability data
   - Plot all climate change indicators on a map
   - Animate change in climate change indicators on maps from 2000 to 2015 by creating .gif files (These are found in the "Codes" folder of this repository)
-- More details are found in final report, ES2001_MATLAB_FinalReport
+- More details are found in final report, ES2001_MATLAB_FinalReport.pdf
