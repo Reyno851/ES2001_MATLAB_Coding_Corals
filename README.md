@@ -1,5 +1,6 @@
 # ES2001 MATLAB Coding Corals
 - Repository of project using MATLAB to analyse effect of climate change on survival of corals in the North Pacific Ocean from 2000 to 2015
+- Hypothesis: Climate change has a direct impact on coral population, however different species of corals exhibit varying degree of resilience
 - Parameters used to measure climate change are: 
   - Sea Surface Temperature (SST)
   - Sea Surface Temperature Anomaly (SSTA)
@@ -8,4 +9,14 @@
   - Degree Heating Weeks (DHWs)
   - Mean Seawater pH
   - Bleaching hotspots
-- Details are in final report, ES2001_MATLAB_FinalReport
+- Parameters used to measure/estimate coral survivability include:
+  - Coral population
+  - Coral distribution
+  - Bleaching severity code
+  - Bleaching occurence probability
+- Specific role in project:
+  - Extract and plot severity code data
+  - Plot interpolated bleaching probability data
+  - Plot all climate change indicators on a map
+  - Animate change in climate change indicators on maps from 2000 to 2015 by creating .gif files (These are found in the "Codes" folder of this repository)
+- More details are found in final report, ES2001_MATLAB_FinalReport
