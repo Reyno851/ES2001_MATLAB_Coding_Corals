@@ -1,0 +1,503 @@
+VernacularNameCategory,ScientificName,Species,IndividualCount,CategoricalAbundance,Density,Condition,Temperature,Locality,ObservationYear,latitude,longitude
+,,,,,,,,,,degrees_north,degrees_east
+stony coral (cup coral),Flabellum (Flabellum) pavoninum,pavoninum,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Keahole Pt",1987,19.73167,-156.06667
+stony coral (unspecified),Scleractinia,NA,-999,NA,-999,NA,-999.0,NA,1987,54.36,-159.84333
+stony coral (unspecified),Scleractinia,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+stony coral (unspecified),Scleractinia,NA,-999,NA,-999,NA,1.0,NA,1987,60.35317,-173.40917
+stony coral (unspecified),Scleractinia,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+stony coral (unspecified),Scleractinia,NA,-999,NA,-999,NA,6.8,NA,1987,59.68892,-145.25867
+stony coral (unspecified),Scleractinia,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+stony coral (unspecified),Scleractinia,NA,-999,NA,-999,NA,-999.0,NA,1987,59.77667,-145.54109
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,3.6,Alaska; Bering Sea,1987,57.9515,-159.0095
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,3.9,Alaska; Bering Sea,1987,56.99825,-159.14917
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,-999.0,Alaska; Gulf of Alaska,1987,54.24808,-163.4325
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,5.6,Alaska; Gulf of Alaska,1987,58.78305,-140.84779
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,6.1,Alaska; Gulf of Alaska,1987,58.67067,-150.129
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,-999.0,NA,1987,48.35075,-122.84525
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,4.3,Alaska; Bering Sea,1987,57.17466,-169.30342
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,4.1,Alaska; Bering Sea,1987,56.025,-162.26166
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,5.4,Alaska; Gulf of Alaska,1987,58.76767,-150.01866
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,4.0,Alaska; Bering Sea,1987,56.8435,-169.26908
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,-999.0,Alaska; Gulf of Alaska,1987,56.20341,-157.04384
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,3.2,Alaska; Bering Sea,1987,58.67633,-167.23234
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,4.0,Alaska; Bering Sea,1987,56.67159,-168.91208
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,-999.0,Alaska; Gulf of Alaska,1987,59.50783,-143.38791
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,6.1,Alaska; Gulf of Alaska,1987,54.34617,-163.654
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,4.2,Alaska; Bering Sea,1987,56.35192,-168.87342
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,2.5,Alaska; Bering Sea,1987,60.00267,-168.658
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,3.9,Alaska; Bering Sea,1987,57.66709,-168.46125
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,-999.0,Alaska; Gulf of Alaska,1987,54.17625,-165.7395
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,-999.0,Alaska; Gulf of Alaska,1987,56.41217,-156.84534
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,4.1,Alaska; Bering Sea,1987,57.31658,-168.376
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,3.9,Alaska; Bering Sea,1987,56.99125,-168.34841
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,5.6,Alaska; Gulf of Alaska,1987,58.72268,-139.51873
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,4.4,Alaska; Bering Sea,1987,56.33859,-168.26667
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,4.2,Alaska; Bering Sea,1987,56.36892,-169.47691
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,3.4,Alaska; Bering Sea,1987,57.69291,-158.31967
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,-999.0,Alaska; Gulf of Alaska,1987,54.04467,-163.075
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,1.0,Alaska; Bering Sea,1987,60.16958,-172.30442
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,5.2,Alaska; Bering Sea,1987,56.6475,-169.51592
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,0.4,Alaska; Bering Sea,1987,60.01392,-171.97775
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,3.8,Alaska; Bering Sea,1987,56.3815,-162.22383
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,-999.0,Alaska; Gulf of Alaska,1987,56.60117,-156.41025
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,-999.0,Alaska; Gulf of Alaska,1987,54.37667,-160.10083
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,3.7,Alaska; Bering Sea,1987,57.33933,-171.46108
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,4.0,Alaska; Bering Sea,1987,56.68325,-171.36275
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,5.9,Alaska; Gulf of Alaska,1987,54.40167,-159.85416
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,4.2,Alaska; Bering Sea,1987,56.163,-161.30608
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,3.4,Alaska; Bering Sea,1987,56.67633,-162.18192
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,-999.0,Alaska; Gulf of Alaska,1987,54.36,-159.84333
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,-1.0,Alaska; Bering Sea,1987,60.99759,-171.48033
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,5.6,Alaska; Gulf of Alaska,1987,59.04948,-141.05279
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,-999.0,Alaska; Gulf of Alaska,1987,54.57833,-158.91666
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,0.9,Alaska; Bering Sea,1987,59.99833,-173.32658
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,-999.0,Alaska; Gulf of Alaska,1987,54.34,-165.38308
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,5.5,Alaska; Gulf of Alaska,1987,57.18192,-136.25083
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,1.0,Alaska; Bering Sea,1987,60.35317,-173.40917
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,4.2,Alaska; Bering Sea,1987,57.033,-172.01683
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,7.0,Alaska; Gulf of Alaska,1987,56.76925,-153.06667
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,7.0,Alaska; Gulf of Alaska,1987,58.87033,-151.6365
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,4.2,Alaska; Bering Sea,1987,56.00992,-168.20234
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,3.8,Alaska; Bering Sea,1987,57.99267,-158.32384
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,-999.0,Alaska; Gulf of Alaska,1987,53.52617,-166.53134
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,-999.0,Alaska; Gulf of Alaska,1987,54.22592,-165.47433
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,3.0,Alaska; Bering Sea,1987,57.67459,-162.12716
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,3.1,Alaska; Bering Sea,1987,60.52558,-178.76641
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,4.1,Alaska; Bering Sea,1987,57.36167,-173.34192
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,6.8,Alaska; Gulf of Alaska,1987,58.10358,-152.44916
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,3.2,Alaska; Bering Sea,1987,59.34075,-174.44858
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,4.1,Alaska; Bering Sea,1987,55.99517,-165.17067
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,3.5,Alaska; Bering Sea,1987,59.06433,-174.38092
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,2.9,Alaska; Bering Sea,1987,59.096,-174.89517
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,3.0,Alaska; Bering Sea,1987,58.31009,-162.109
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,3.4,Alaska; Bering Sea,1987,58.75292,-175.46767
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,-999.0,Alaska; Gulf of Alaska,1987,55.0145,-159.58275
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,-999.0,Alaska; Gulf of Alaska,1987,54.10142,-165.45442
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,5.1,Alaska; Gulf of Alaska,1987,56.71834,-153.27584
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,-999.0,Alaska; Gulf of Alaska,1987,57.33084,-150.31333
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,4.0,Alaska; Bering Sea,1987,58.30275,-174.25642
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,2.7,Alaska; Bering Sea,1987,58.69675,-162.66683
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,8.3,Alaska; Gulf of Alaska,1987,56.59842,-157.80608
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,8.3,Alaska; Gulf of Alaska,1987,56.57183,-157.58559
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,6.8,Alaska; Gulf of Alaska,1987,58.13341,-152.02784
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,6.0,Alaska; Gulf of Alaska,1987,57.18333,-151.13583
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,12.8,Alaska; Gulf of Alaska,1987,57.39192,-156.028
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,-999.0,Alaska; Bering Sea,1987,58.32917,-163.35984
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,12.6,Alaska; Gulf of Alaska,1987,57.39666,-156.11942
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,12.7,Alaska; Gulf of Alaska,1987,57.72559,-155.58966
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,6.9,Alaska; Gulf of Alaska,1987,59.61734,-143.77642
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,7.7,Alaska; Gulf of Alaska,1987,57.7375,-151.18892
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,5.5,Alaska; Gulf of Alaska,1987,57.89442,-154.87917
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,10.0,Alaska; Gulf of Alaska,1987,58.09567,-154.27633
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,7.2,Alaska; Gulf of Alaska,1987,58.50167,-153.724
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,10.6,Alaska; Gulf of Alaska,1987,59.70275,-152.91017
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,-999.0,Alaska; Gulf of Alaska,1987,55.63558,-134.90067
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,9.6,Alaska; Gulf of Alaska,1987,59.51317,-152.17317
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,6.4,Alaska; Gulf of Alaska,1987,59.0655,-152.43383
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,7.8,Alaska; Gulf of Alaska,1987,57.96675,-152.68875
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,-999.0,Alaska; Gulf of Alaska,1987,53.95133,-164.82375
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,3.6,Alaska; Bering Sea,1987,56.3335,-163.39416
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,-999.0,Alaska; Gulf of Alaska,1987,55.49408,-134.91642
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,3.3,Alaska; Bering Sea,1987,57.657,-159.02458
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,5.1,Alaska; Gulf of Alaska,1987,53.80825,-164.00191
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,3.9,Alaska; Bering Sea,1987,56.00041,-163.40825
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,4.2,Alaska; Bering Sea,1987,55.665,-163.40267
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,-999.0,Alaska; Gulf of Alaska,1987,54.54342,-159.09142
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,-999.0,Alaska; Gulf of Alaska,1987,55.42517,-134.34491
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,6.9,Alaska; Gulf of Alaska,1987,58.55166,-138.48392
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,5.0,Alaska; Bering Sea,1987,55.36617,-163.44634
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,3.6,Alaska; Bering Sea,1987,57.00425,-159.706
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,4.4,Alaska; Bering Sea,1987,55.669,-164.58275
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,4.0,Alaska; Gulf of Alaska,1987,53.64059,-166.28483
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,4.7,Alaska; Gulf of Alaska,1987,54.88175,-159.02217
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,5.9,Alaska; Gulf of Alaska,1987,56.79175,-152.04033
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,5.9,Alaska; Gulf of Alaska,1987,56.78659,-152.05225
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,6.9,Alaska; Gulf of Alaska,1987,58.38717,-138.54775
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,5.9,Alaska; Gulf of Alaska,1987,56.76834,-152.0095
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,5.8,Alaska; Gulf of Alaska,1987,55.2555,-158.91908
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,5.9,Alaska; Gulf of Alaska,1987,56.79458,-152.0835
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,5.9,Alaska; Gulf of Alaska,1987,56.80884,-152.06967
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,5.9,Alaska; Gulf of Alaska,1987,56.79592,-152.089
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,-999.0,Alaska; Gulf of Alaska,1987,58.16609,-138.66941
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,5.1,Alaska; Bering Sea,1987,58.31958,-159.56292
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,6.8,Alaska; Gulf of Alaska,1987,58.18,-137.24983
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,5.9,Alaska; Gulf of Alaska,1987,56.80558,-152.05592
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,5.4,Alaska; Gulf of Alaska,1987,56.97175,-152.59184
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,5.9,Alaska; Gulf of Alaska,1987,58.95628,-140.11129
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,-999.0,Alaska; Gulf of Alaska,1987,54.63341,-133.52108
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,6.9,Alaska; Gulf of Alaska,1987,57.38891,-151.85883
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,-999.0,Alaska; Gulf of Alaska,1987,54.5665,-132.95533
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,4.0,Alaska; Bering Sea,1987,59.00167,-165.93925
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,3.4,Alaska; Bering Sea,1987,57.33134,-159.04483
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,-999.0,Alaska; Gulf of Alaska,1987,55.171,-160.16867
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,2.4,Alaska; Bering Sea,1987,58.99367,-167.90575
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,4.9,Alaska; Gulf of Alaska,1987,57.544,-150.30925
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,3.4,Alaska; Bering Sea,1987,57.67417,-160.87742
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,2.9,Alaska; Bering Sea,1987,59.0135,-167.24184
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,3.2,Alaska; Bering Sea,1987,57.51291,-169.34583
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,3.4,Alaska; Bering Sea,1987,57.32417,-160.919
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,4.2,Alaska; Bering Sea,1987,57.35983,-167.09909
+sponge (unspecified),Porifera,NA,-999,NA,-999,NA,4.1,Alaska; Bering Sea,1987,57.33783,-169.004
+soft coral,Sympodium sp.,NA,-999,NA,-999,NA,-999.0,Horizon Guyot,1987,19.36,-168.92
+stoloniferan coral,Telestula sp.,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.74167,-158.255
+soft coral,Sympodium sp.,NA,-999,NA,-999,NA,-999.0,Horizon Guyot,1987,19.36,-168.92
+stoloniferan coral,Carijoa sp.,NA,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Molokai Island, Penguin Bank",1987,21.045,-157.31833
+stoloniferan coral,Carijoa sp.,NA,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Molokai Island, Penguin Bank",1987,21.045,-157.31833
+sea pen,Halipteris willemoesi,willemoesi,1,NA,-999,Live,-999.0,"Alaska Peninsula, South of Chiachi Island",1987,55.3806,-158.962
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,11.4,NA,1987,59.21992,-153.68625
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,5.7,NA,1987,58.94708,-153.09742
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,12.7,NA,1987,57.72559,-155.58966
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,1.7,NA,1987,59.9995,-177.92075
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,6.7,NA,1987,59.14167,-140.09893
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,2.5,NA,1987,59.66658,-175.88041
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,4.5,NA,1987,55.70033,-168.1665
+sea pen,Calibelemnon symmetricum,symmetricum,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.74833,-158.25333
+sea pen,Pennatulacea,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.73667,-158.305
+sea pen,Pennatulacea,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,4.1,NA,1987,57.36167,-173.34192
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,5.9,NA,1987,56.80884,-152.06967
+sea pen,Pennatula cf. flava,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+sea pen,Protoptilum sp.,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,4.3,NA,1987,56.66116,-171.931
+sea pen,Virgularia sp.,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+sea pen,Protoptilum sp.,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+sea pen,Pennatulidae,NA,-999,0.1,-999,NA,2.4,Horizon Tablemount,1987,19.36,-168.92
+sea pen,Protoptilum sp.,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,4.3,NA,1987,56.00475,-167.62884
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,4.2,NA,1987,56.35192,-168.87342
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,4.3,NA,1987,56.00991,-166.4225
+sea pen,Calibelemnon symmetricum,symmetricum,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+sea pen,Protoptilum sp.,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+sea pen,Virgularia cf. tuberculata,tuberculata,1,NA,-999,NA,-999.0,Horizon Tablemount,1987,19.36,-168.92
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,-999.0,NA,1987,54.94933,-159.7445
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,6.1,NA,1987,54.34617,-163.654
+sea pen,Pennatulacea,NA,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+sea pen,Pennatulacea,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,-999.0,off Washington coast,1987,47.29475,-122.712
+sea pen,Pennatulacea,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+sea pen,Pennatulacea,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+sea pen,Calibelemnon symmetricum,symmetricum,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+sea pen,Halipteris californica,californica,2,NA,-999,Live,-999.0,Off California,1987,38.2706,-123.405
+sea pen,Protoptilum sp.,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+sea pen,Distichoptilum sp.,NA,1,NA,-999,Live,-999.0,Magellan Rise,1987,7.0,-177.0
+sea pen,Pennatulacea,NA,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+sea pen,Pennatulacea,NA,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+sea pen,Pennatulacea,NA,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,-999.0,NA,1987,55.53708,-161.53259
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,-999.0,NA,1987,55.62,-159.07275
+sea pen,Virgularia sp.,NA,1,NA,-999,Live,-999.0,Horizon Guyot,1987,19.33,-169.0
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,4.3,NA,1987,55.66692,-167.58542
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,4.3,NA,1987,56.33033,-167.64983
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,5.9,NA,1987,56.79408,-152.10292
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,5.9,NA,1987,56.79592,-152.089
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,5.9,NA,1987,56.80558,-152.05592
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,6.9,NA,1987,57.38891,-151.85883
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,4.2,NA,1987,56.35708,-170.67258
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,4.1,NA,1987,56.65534,-170.73183
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,4.2,NA,1987,57.033,-172.01683
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,4.2,NA,1987,57.042,-173.29891
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,4.8,NA,1987,59.10084,-141.22982
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,5.6,NA,1987,58.78305,-140.84779
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,5.6,NA,1987,58.72268,-139.51873
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,5.2,NA,1987,59.72738,-142.88686
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,3.0,NA,1987,59.6915,-177.147
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,5.6,NA,1987,54.61575,-162.559
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,7.8,NA,1987,54.55559,-161.48717
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,5.4,NA,1987,55.3805,-158.96133
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,5.6,NA,1987,57.83083,-154.70334
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,10.0,NA,1987,58.09567,-154.27633
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,9.2,NA,1987,58.64192,-153.44058
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,5.8,NA,1987,59.0585,-152.88316
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,5.9,NA,1987,59.11758,-152.77408
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,9.5,NA,1987,59.1965,-153.30133
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,8.3,NA,1987,59.28092,-152.657
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,-999.0,off Washington coast,1987,47.92041,-122.63334
+sea pen,Pennatulacea,NA,-999,NA,-999,NA,-999.0,off Washington coast,1987,48.00633,-122.71025
+gorgonian coral,Corallium regale,regale,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+gorgonian coral,Corallium regale,regale,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+gorgonian coral,Corallium regale,regale,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+gorgonian coral,Corallium regale,regale,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.74167,-158.255
+gorgonian coral,Corallium regale,regale,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.74167,-158.255
+gorgonian coral,Corallium regale,regale,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.74167,-158.255
+gorgonian coral,Corallium secundum,secundum,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.74833,-158.25333
+gorgonian coral,Corallium secundum,secundum,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.74833,-158.25333
+gorgonian coral,Corallium secundum,secundum,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.74833,-158.25333
+gorgonian coral,Corallium secundum,secundum,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.74833,-158.25333
+gorgonian coral,Corallium secundum,secundum,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+gorgonian coral,Corallium secundum,secundum,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.74167,-158.255
+gorgonian coral,Corallium secundum,secundum,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+gorgonian coral,Narella alata,alata,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Narella alata,alata,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Narella alata,alata,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Iridogorgia bella,bella,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Metallogorgia sp.,NA,1,NA,-999,NA,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.7583,-158.255
+gorgonian coral,Narella alata,alata,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Narella alata,alata,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Primnoidae,NA,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Narella bowersi,bowersi,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Primnoidae,NA,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Narella alata,alata,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Candidella gigantea,gigantea,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Narella alata,alata,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Primnoidae,NA,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Primnoidae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.74833,-158.25333
+gorgonian coral,Calyptrophora cf. alpha,NA,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Primnoidae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.74833,-158.25333
+gorgonian coral,Narella bowersi,bowersi,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Primnoidae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.74833,-158.25333
+gorgonian coral,Primnoidae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.74833,-158.25333
+gorgonian coral,Narella alata,alata,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Gorgonacea,NA,-999,NA,-999,NA,-999.0,NA,1987,54.53583,-158.80084
+gorgonian coral,Gorgonacea,NA,-999,NA,-999,NA,-999.0,NA,1987,54.81,-157.85916
+gorgonian coral,Primnoidae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71667,-158.305
+gorgonian coral,Primnoidae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71667,-158.305
+gorgonian coral,Calyptrophora cf. alpha,NA,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Chrysogorgia geniculata,geniculata,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Narella alata,alata,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Primnoidae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+gorgonian coral,Narella alata,alata,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Metallogorgia melanotrichos,melanotrichos,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.75,-158.23833
+gorgonian coral,Iridogorgia bella,bella,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Iridogorgia sp.,NA,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Plexauridae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+gorgonian coral,Primnoidae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+gorgonian coral,Calyptrophora cf. alpha,NA,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Primnoidae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+gorgonian coral,Plexauridae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.74167,-158.255
+gorgonian coral,Iridogorgia bella,bella,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Primnoidae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+gorgonian coral,Gorgonacea,NA,-999,NA,-999,NA,-999.0,NA,1987,54.51917,-158.865
+gorgonian coral,Acanthogorgia striata,striata,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.74167,-158.255
+gorgonian coral,Gorgonacea,NA,-999,NA,-999,NA,5.5,NA,1987,55.49692,-158.546
+gorgonian coral,Narella sp.,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.74167,-158.255
+gorgonian coral,Primnoidae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.74167,-158.255
+gorgonian coral,Primnoidae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.75,-158.23833
+gorgonian coral,Primnoidae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.75,-158.23833
+gorgonian coral,Narella dichotoma,dichotoma,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.75,-158.23833
+gorgonian coral,Narella dichotoma,dichotoma,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.75,-158.23833
+gorgonian coral,Primnoidae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.75,-158.23833
+gorgonian coral,Primnoidae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.75,-158.23833
+gorgonian coral,Primnoidae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.75,-158.23833
+gorgonian coral,Metallogorgia melanotrichos,melanotrichos,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.75,-158.23833
+gorgonian coral,Metallogorgia melanotrichos,melanotrichos,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.75,-158.23833
+gorgonian coral,Primnoidae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.75,-158.23833
+gorgonian coral,Metallogorgia melanotrichos,melanotrichos,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.75,-158.23833
+gorgonian coral,Gorgonacea,NA,-999,NA,-999,NA,-999.0,NA,1987,55.58667,-155.47917
+gorgonian coral,Primnoidae,NA,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Plexauridae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+gorgonian coral,Narella dichotoma,dichotoma,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Kona",1987,19.63333,-156.06667
+gorgonian coral,Plexauridae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+gorgonian coral,Plexauridae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+gorgonian coral,Primnoidae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+gorgonian coral,Primnoidae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+gorgonian coral,Plexauridae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.74167,-158.255
+gorgonian coral,Primnoidae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+gorgonian coral,Primnoidae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+gorgonian coral,Primnoidae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+gorgonian coral,Plexauridae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+gorgonian coral,Plexauridae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+gorgonian coral,Primnoidae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.74167,-158.255
+gorgonian coral,Gorgonacea,NA,-999,NA,-999,NA,-999.0,NA,1987,55.38608,-158.37042
+gorgonian coral,Gorgonacea,NA,-999,NA,-999,NA,7.0,NA,1987,56.76925,-153.06667
+gorgonian coral,Primnoidae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.74167,-158.255
+gorgonian coral,Gorgonacea,NA,-999,21.9,-999,NA,2.4,Horizon Tablemount,1987,19.36,-168.92
+gorgonian coral,Primnoidae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+gorgonian coral,Narella alata,alata,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Narella alata,alata,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Narella alata,alata,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Narella alata,alata,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Narella alata,alata,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Narella alata,alata,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gold coral,Kulamanamana haumeaae,haumeaae,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.74833,-158.25333
+gold coral,Kulamanamana haumeaae,haumeaae,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.74833,-158.25333
+gold coral,Kulamanamana haumeaae,haumeaae,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.74833,-158.25333
+gold coral,Kulamanamana haumeaae,haumeaae,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+gold coral,Kulamanamana haumeaae,haumeaae,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+gold coral,Kulamanamana haumeaae,haumeaae,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+gold coral,cf. Kulamanamana haumeaae,haumeaae,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+glass sponge,Hexactinellida,NA,-999,NA,-999,NA,6.1,Alaska; Gulf of Alaska,1987,58.67067,-150.129
+glass sponge,Hexactinellida,NA,-999,NA,-999,NA,5.4,Alaska; Gulf of Alaska,1987,58.76767,-150.01866
+glass sponge,Hexactinellida,NA,1,NA,-999,Live,-999.0,off Oregon,1987,43.94833,-124.92167
+glass sponge,Aphrocallistes vastus,vastus,-999,NA,-999,NA,-999.0,Alaska; Gulf of Alaska,1987,56.82417,-152.08834
+glass sponge,Aphrocallistes vastus,vastus,-999,NA,-999,NA,-999.0,Alaska; Gulf of Alaska,1987,56.855,-152.1675
+glass sponge,Aphrocallistes vastus,vastus,-999,NA,-999,NA,-999.0,Alaska; Gulf of Alaska,1987,56.84083,-152.16333
+glass sponge,Hexactinellida,NA,-999,NA,-999,NA,5.9,Alaska; Gulf of Alaska,1987,56.80558,-152.05592
+demosponge,Halichondria (Halichondria) panicea,panicea,-999,NA,-999,NA,3.0,Alaska; Bering Sea,1987,58.3385,-163.98325
+demosponge,Halichondria (Halichondria) panicea,panicea,-999,NA,-999,NA,3.7,Alaska; Bering Sea,1987,57.326,-160.28008
+demosponge,Halichondria (Halichondria) panicea,panicea,-999,NA,-999,NA,3.9,Alaska; Bering Sea,1987,56.01075,-164.00808
+demosponge,Halichondria (Halichondria) panicea,panicea,-999,NA,-999,NA,1.6,Alaska; Bering Sea,1987,60.32733,-169.32108
+demosponge,Halichondria (Halichondria) panicea,panicea,-999,NA,-999,NA,4.0,Alaska; Bering Sea,1987,57.68633,-167.7555
+demosponge,Halichondria (Halichondria) panicea,panicea,-999,NA,-999,NA,6.0,Alaska; Bering Sea,1987,57.33242,-170.2275
+demosponge,Halichondria (Halichondria) panicea,panicea,-999,NA,-999,NA,4.1,Alaska; Bering Sea,1987,55.67275,-164.01092
+demosponge,Halichondria (Halichondria) panicea,panicea,-999,NA,-999,NA,4.1,Alaska; Bering Sea,1987,58.16184,-160.44583
+demosponge,Halichondria (Halichondria) panicea,panicea,-999,NA,-999,NA,4.5,Alaska; Bering Sea,1987,55.37808,-163.99267
+demosponge,Suberites ficus,ficus,-999,NA,-999,NA,7.4,Alaska; Gulf of Alaska,1987,57.32417,-152.2525
+demosponge,Halichondria (Halichondria) panicea,panicea,-999,NA,-999,NA,1.0,Alaska; Bering Sea,1987,60.16958,-172.30442
+demosponge,Halichondria (Halichondria) panicea,panicea,-999,NA,-999,NA,2.9,Alaska; Bering Sea,1987,59.62116,-174.55392
+demosponge,Halichondria (Halichondria) panicea,panicea,-999,NA,-999,NA,3.2,Alaska; Bering Sea,1987,57.3475,-161.53267
+demosponge,Halichondria (Halichondria) panicea,panicea,-999,NA,-999,NA,3.2,Alaska; Bering Sea,1987,57.00059,-161.56892
+demosponge,Halichondria (Halichondria) panicea,panicea,-999,NA,-999,NA,3.1,Alaska; Bering Sea,1987,58.31333,-165.26416
+demosponge,Halichondria (Halichondria) panicea,panicea,-999,NA,-999,NA,4.5,Alaska; Bering Sea,1987,59.33092,-165.33625
+demosponge,Halichondria (Halichondria) panicea,panicea,-999,NA,-999,NA,3.3,Alaska; Bering Sea,1987,56.68158,-161.56783
+demosponge,Halichondria (Halichondria) panicea,panicea,-999,NA,-999,NA,4.3,Alaska; Bering Sea,1987,59.33275,-166.60442
+demosponge,Halichondria (Halichondria) panicea,panicea,-999,NA,-999,NA,3.9,Alaska; Bering Sea,1987,56.333,-161.619
+demosponge,Suberites ficus,ficus,-999,NA,-999,NA,4.6,Alaska; Bering Sea,1987,55.66783,-162.82083
+demosponge,Halichondria (Halichondria) panicea,panicea,-999,NA,-999,NA,3.7,Alaska; Bering Sea,1987,59.00825,-166.60325
+demosponge,Halichondria (Halichondria) panicea,panicea,-999,NA,-999,NA,3.7,Alaska; Bering Sea,1987,56.66592,-160.36342
+demosponge,Halichondria (Halichondria) panicea,panicea,-999,NA,-999,NA,3.6,Alaska; Bering Sea,1987,55.99908,-162.81333
+demosponge,Halichondria (Halichondria) panicea,panicea,-999,NA,-999,NA,3.3,Alaska; Bering Sea,1987,58.347,-166.54242
+demosponge,Halichondria (Halichondria) panicea,panicea,-999,NA,-999,NA,3.2,Alaska; Bering Sea,1987,57.98866,-161.46942
+demosponge,Halichondria (Halichondria) panicea,panicea,-999,NA,-999,NA,3.5,Alaska; Bering Sea,1987,56.98633,-160.33975
+demosponge,Suberites ficus,ficus,-999,NA,-999,NA,-999.0,Alaska; Gulf of Alaska,1987,56.82417,-152.08834
+demosponge,Suberites sp.,NA,-999,NA,-999,NA,6.9,Alaska; Gulf of Alaska,1987,58.38717,-138.54775
+demosponge,Halichondria (Halichondria) panicea,panicea,-999,NA,-999,NA,2.7,Alaska; Bering Sea,1987,58.31875,-162.72183
+demosponge,Halichondria (Halichondria) panicea,panicea,-999,NA,-999,NA,3.6,Alaska; Bering Sea,1987,57.671,-160.25509
+gorgonian coral,Paragorgia sp.,NA,-999,NA,-999,NA,5.6,Queen Charlotte Sound; s.e. of Cape St. James,1987,51.86,-130.71001
+black coral,Antipatharia,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.74833,-158.25333
+black coral,Antipatharia,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+black coral,Leiopathes sp.,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+black coral,Antipatharia,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+black coral,Antipatharia,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.74833,-158.25333
+black coral,Bathypathes conferta,conferta,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+black coral,Antipatharia,NA,-999,0.3,-999,NA,2.4,Horizon Tablemount,1987,19.36,-168.92
+black coral,Antipatharia,NA,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Molokai Island, Penguin Bank",1987,21.045,-157.31833
+black coral,Abyssopathes lyriformis,lyriformis,1,NA,-999,Live,-999.0,Magellan Rise,1987,7.0,-177.0
+black coral,Antipatharia,NA,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Molokai Island, Penguin Bank",1987,21.045,-157.31833
+black coral,Antipatharia,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+black coral,Antipatharia,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+black coral,Antipatharia,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+black coral,Antipatharia,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+black coral,Antipatharia,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+gorgonian coral,Lepidisis olapa,olapa,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Lepidisis olapa,olapa,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Acanella weberi,weberi,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Lepidisis olapa,olapa,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Isididae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.74833,-158.25333
+gorgonian coral,Lepidisis olapa,olapa,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Lepidisis olapa,olapa,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Lepidisis sp.,NA,-999,0.1,-999,NA,2.4,Horizon Tablemount,1987,19.36,-168.92
+gorgonian coral,Lepidisis olapa,olapa,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Keratoisis grandis,grandis,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Lepidisis cf. olapa,olapa,2,NA,-999,NA,-999.0,Horizon Tablemount,1987,19.36,-168.92
+gorgonian coral,Isididae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.74833,-158.25333
+gorgonian coral,Lepidisis olapa,olapa,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Lepidisis sp.,NA,6,NA,-999,Live,2.4,"Horizon Guyot, Near Edge",1987,19.33,-169.0
+gorgonian coral,Isididae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.74833,-158.25333
+gorgonian coral,Lepidisis olapa,olapa,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Lepidisis sp.,NA,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Lepidisis sp.,NA,6,NA,-999,Live,-999.0,"Horizon Guyot, Near Edge",1987,19.33,-169.0
+gorgonian coral,Lepidisis olapa,olapa,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Keratoisis sp.,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+gorgonian coral,Lepidisis olapa,olapa,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Isididae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.74833,-158.25333
+gorgonian coral,Lepidisis olapa,olapa,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Lepidisis cf. olapa,olapa,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71667,-158.305
+gorgonian coral,Isididae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+gorgonian coral,Lepidisis olapa,olapa,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Isididae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+gorgonian coral,Isididae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+gorgonian coral,Keratoisis sp.,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+gorgonian coral,Lepidisis olapa,olapa,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+gorgonian coral,Isididae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+gorgonian coral,Isididae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+gorgonian coral,Isididae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+gorgonian coral,Isididae,NA,-999,NA,-999,Live,-999.0,Hawaiian Archipelago; Cross Seamount,1987,18.71,-158.28167
+gorgonian coral,Lepidisis olapa,olapa,-999,NA,-999,Live,-999.0,"Main Hawaiian Islands; Hawaii Island, Alenuihaha Channel",1987,20.5,-156.0
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,2.4,NA,1987,58.99367,-167.90575
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.0,NA,1987,57.67459,-162.12716
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.2,NA,1987,57.99875,-165.90216
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,1.0,NA,1987,60.16958,-172.30442
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,1.6,NA,1987,60.32733,-169.32108
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.6,NA,1987,57.9515,-159.0095
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,1.9,NA,1987,59.33391,-169.2385
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.4,NA,1987,57.67417,-160.87742
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,2.3,NA,1987,57.9895,-170.34591
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.2,NA,1987,58.32883,-168.46042
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,2.8,NA,1987,58.00483,-164.00733
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,2.1,NA,1987,59.33342,-168.56333
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.5,NA,1987,57.99892,-160.84816
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.7,NA,1987,57.33658,-159.66517
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,1.7,NA,1987,59.67825,-169.31525
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.5,NA,1987,56.98633,-160.33975
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,1.0,NA,1987,60.35317,-173.40917
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.5,NA,1987,58.34408,-169.11975
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,2.3,NA,1987,59.00475,-171.76058
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,2.3,NA,1987,59.01075,-169.19267
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.2,NA,1987,57.65584,-165.23717
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,2.7,NA,1987,58.66891,-170.42559
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.1,NA,1987,58.31333,-165.26416
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,2.9,NA,1987,59.0135,-167.24184
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,1.0,NA,1987,59.67191,-171.921
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.0,NA,1987,57.00733,-163.98467
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.5,NA,1987,57.34575,-158.40442
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.1,NA,1987,56.996,-163.37116
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.5,NA,1987,56.68475,-165.15133
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,1.5,NA,1987,60.00491,-169.32367
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,2.4,NA,1987,59.3295,-167.93292
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.3,NA,1987,57.666,-163.37958
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.4,NA,1987,58.32467,-165.89359
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.3,NA,1987,56.32117,-165.19259
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.8,NA,1987,57.99933,-159.60109
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,5.2,NA,1987,58.20925,-160.6235
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,2.6,NA,1987,58.99791,-168.53666
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,2.0,NA,1987,58.35775,-170.39975
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.5,NA,1987,58.33767,-167.19775
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,-999.0,NA,1987,58.00433,-166.52875
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,4.1,NA,1987,56.99108,-167.70333
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,0.9,NA,1987,60.34242,-170.08192
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.2,NA,1987,57.32867,-163.38617
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.2,NA,1987,57.00059,-161.56892
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.1,NA,1987,58.67533,-167.88134
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.5,NA,1987,58.34133,-164.61391
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.0,NA,1987,57.83416,-170.62108
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.3,NA,1987,58.32375,-167.8315
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,4.1,NA,1987,55.99125,-165.817
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,-0.4,NA,1987,60.67041,-171.43175
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.4,NA,1987,57.33134,-159.04483
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.6,NA,1987,57.00425,-159.706
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,1.2,NA,1987,60.17791,-173.02075
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,4.0,NA,1987,57.67492,-169.05309
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.5,NA,1987,57.84459,-169.33975
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,4.1,NA,1987,58.16184,-160.44583
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.1,NA,1987,58.34725,-169.75208
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,0.9,NA,1987,59.98967,-170.63433
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.4,NA,1987,58.18883,-161.48308
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.8,NA,1987,56.99817,-165.85125
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,5.0,NA,1987,59.61892,-165.954
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.1,NA,1987,58.003,-164.6075
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,4.0,NA,1987,57.3425,-166.49733
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,2.4,NA,1987,57.66309,-170.28333
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.7,NA,1987,56.66983,-166.45559
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.0,NA,1987,58.3385,-163.98325
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.9,NA,1987,56.99825,-159.14917
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.4,NA,1987,57.97733,-165.23917
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.6,NA,1987,58.66817,-166.58333
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.0,NA,1987,57.83217,-169.94091
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.2,NA,1987,58.64317,-168.4895
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,1.1,NA,1987,59.34975,-171.83633
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,1.2,NA,1987,59.66741,-172.53034
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.3,NA,1987,58.347,-166.54242
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.2,NA,1987,58.67633,-167.23234
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.6,NA,1987,57.31367,-165.86033
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,2.0,NA,1987,59.00142,-171.14325
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.7,NA,1987,56.66592,-160.36342
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.4,NA,1987,58.01483,-169.07808
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.6,NA,1987,57.99909,-167.78841
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,4.0,NA,1987,59.59916,-166.63034
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.2,NA,1987,58.67059,-169.13691
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,4.4,NA,1987,56.00541,-161.83667
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.3,NA,1987,58.00109,-169.70967
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.2,NA,1987,57.3475,-161.53267
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.1,NA,1987,57.67034,-164.63525
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,3.4,NA,1987,57.69291,-158.31967
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,4.3,NA,1987,56.00991,-166.4225
+soft coral,Gersemia sp.,NA,-999,NA,-999,NA,4.4,NA,1987,55.3195,-165.78892
+sea pen,Halipteris finmarchica,finmarchica,-999,NA,-999,NA,6.3,NA,1987,58.50958,-149.39975
+sea pen,Halipteris finmarchica,finmarchica,-999,NA,-999,NA,-999.0,NA,1987,56.79566,-152.07592
+sea pen,Halipteris finmarchica,finmarchica,-999,NA,-999,NA,7.1,NA,1987,57.1225,-152.10167
+sea pen,Virgularia sp.,NA,1,NA,-999,Live,-999.0,off California,1987,40.7156,-124.5556
+sea pen,Halipteris finmarchica,finmarchica,-999,NA,-999,NA,-999.0,NA,1987,56.855,-152.1675
+sea pen,Halipteris finmarchica,finmarchica,-999,NA,-999,NA,-999.0,NA,1987,56.80667,-152.07475
+gorgonian coral,Primnoa pacifica var. willeyi,pacifica,-999,NA,-999,NA,-999.0,NA,1987,54.5665,-132.95533
+gorgonian coral,Primnoa pacifica var. willeyi,pacifica,-999,NA,-999,NA,-999.0,NA,1987,54.77417,-133.12875
+black coral,Antipathes cf. thamnoides,NA,1,NA,-999,Live,-999.0,"Ryukyu Islands, Okinawa Island, 3 Km WSW of Yuhi-Misaki",1987,26.8467,127.253
