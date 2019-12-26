@@ -1,3 +1,11 @@
 # ES2001 MATLAB Coding Corals
-- Repository of project using MATLAB to analyse effect of climate change on survival of corals in the North Pacific Ocean
+- Repository of project using MATLAB to analyse effect of climate change on survival of corals in the North Pacific Ocean from 2000 to 2015
+- Parameters used to measure climate change are: 
+  - Sea Surface Temperature (SST)
+  - Sea Surface Temperature Anomaly (SSTA)
+  - Ocean Heat Content (OHC)
+  - Total Carbon Dioxide (CO2) concentration in ocean
+  - Degree Heating Weeks (DHWs)
+  - Mean Seawater pH
+  - Bleaching hotspots
 - Details are in final report, ES2001_MATLAB_FinalReport
